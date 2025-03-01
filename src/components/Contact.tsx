@@ -1,4 +1,3 @@
-
 import { Mail, Phone, MapPin } from "lucide-react";
 import { useTheme } from "./ThemeProvider";
 
@@ -43,8 +42,7 @@ const Contact = () => {
             </div>
             <h3 className="text-lg font-medium mb-2">Address</h3>
             <p className="text-muted-foreground">
-              53, Block K, Bal Udyan Road<br/>
-              Uttam Nagar, New Delhi - 110059
+              New Delhi, India
             </p>
           </div>
         </div>
